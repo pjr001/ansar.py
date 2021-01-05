@@ -79,7 +79,7 @@ def show_program():
     version    full version
     Date       16/05/2018 09:35:12
     Team       Blackhole Security
-    Email      pjr00112233@gmail.com
+    Email      panjsher1020@gmail.com
     Telegram   @CLAYHACK0
 
 * if you find any errors or problems , please contact
@@ -114,10 +114,10 @@ def info_ga():
 def menu_bot():
 	print '''
    %sNumber                  INFO%s
-●♡▬▬♡RAEESSHOAIB♡▬▬♡●
-●♡▬▬♡RAEESSHOAIB♡▬▬♡●
-●♡▬▬♡RAEESSHOAIB♡▬▬♡●
-●♡▬▬♡RAEESSHOAIB♡▬▬♡●
+●♡▬▬♡ansar♡▬▬♡●
+●♡▬▬♡ansar♡▬▬♡●
+●♡▬▬♡ansar♡▬▬♡●
+●♡▬▬♡ansar♡▬▬♡●
 ---------   ------------------------------------
 
    [ 001 ]      auto reactions
